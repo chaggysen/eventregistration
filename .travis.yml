@@ -1,3 +1,3 @@
 language: java
 script:
-- gradle build --stacktrace
+- ./gradlew build --stacktrace
